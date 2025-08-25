@@ -6,6 +6,8 @@ import { useSelector} from 'react-redux';
 const BioCard = (props) =>{
     const {authorBio} = useSelector(state => state.authorInfo);
     
+    
+
     return(
         <div 
             style={{

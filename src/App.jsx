@@ -1,4 +1,5 @@
 import './stylesheets/App.css'
+import '/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js';
 import Container from './components/container/Container'
 import Filter from './components/filters/Filter'
 

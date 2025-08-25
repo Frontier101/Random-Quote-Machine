@@ -72,40 +72,24 @@ const Filter = () => {
         >
             <div 
                 style={{width:'10rem'}} 
-                className="form-switch form-check "
+                className="form-switch form-check d-flex justify-content-center align-content-center"
             >
-                {/* <input
+                <button
+                    className='bg-transparent border-0 text-light'
                     data-bs-toggle ="collapse"
                     data-bs-target ="#filters"
-                    role='button' 
-                    className="form-check-input" 
-                    type="checkbox"
-                    checked= {checked}
-                    onChange={()=> 
+                    onClick={()=> 
                         setChecked(state => !state)
                     } 
-                />
-                {checked ?'Hide':'Show'} filters */}
-                <label
-                    className="form-check-label"
-                    htmlFor="filterSwitch"
-                    role="button"
-                    data-bs-toggle="collapse"
-                    data-bs-target="#filters"
-                    aria-expanded={checked}
-                    aria-controls="filters"
-                    onClick={() => setChecked(state => !state)}
-                    >
+                >
                     <input
-                        id="filterSwitch"
-                        role="button"
-                        className="form-check-input me-2"
+                        role='button' 
+                        className="form-check-input" 
                         type="checkbox"
-                        checked={checked}
-                        readOnly
+                        checked= {checked}
                     />
-                    {checked ? 'Hide' : 'Show'} filters
-                </label>
+                    {checked ?'Hide':'Show'} filters
+                </button>
             </div>
             <div 
                 id="filters"
