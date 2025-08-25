@@ -13,7 +13,7 @@ export const fetchQuotes = createAsyncThunk(
     'quotes/fetchQuotes',
     async ({category= '', author= ''}, {rejectWithValue})=>{
         try {
-            const res = await fetch('/data/quotes.json');
+            const res = await fetch(`${import.meta.env.BASE_URL}data/quotes.json`);
             if(!res.ok) throw new Error('Network error!')
             const quotes = await res.json();
 
@@ -74,6 +74,7 @@ const quotesSlice = createSlice({
             .addCase(fetchQuotes.rejected, (state, action)=>{
                 state.status = 'failed';
                 state.error = action.error.message;
+                state.quotesList = {quote: '', author:'', category:''};
             })
     }
 })

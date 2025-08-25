@@ -5,7 +5,7 @@ export const fetchAuthorInfo = createAsyncThunk(
     'quotes/fetchAuthorInfo',
     async (authorName, {rejectWithValue})=>{
         try {
-            const res = await fetch('/data/authors.json');
+            const res = await fetch(`${import.meta.env.BASE_URL}data/authors.json`);
             if(!res.ok) throw new Error('Network error!');
             const info = await res.json();
             console.log(info[authorName]);

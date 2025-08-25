@@ -167,9 +167,7 @@ const Container = () => {
                         }
                     }}
                 />
-                <Share text={`
-                    "${currQuote.quote}"${currQuote.author}
-                `}/>
+                <Share text={`"${currQuote.quote}"${currQuote.author}`}/>
             </div>
         </div>
         
