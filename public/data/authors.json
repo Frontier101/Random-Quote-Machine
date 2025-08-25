@@ -1,66 +1,66 @@
 {
     "Albert Einstein":{
-        "img":"/src/Assets/images/EinsteinPhoto.jpg",
+        "img":"src/Assets/images/EinsteinPhoto.jpg",
         "bio":"(1879-1955) was a German-born theoretical physicist renowned for developing the theory of relativity and making significant contributions to quantum mechanics, earning the Nobel Prize in Physics in 1921."
     },
     "Carl Sagan":{
-        "img":"/src/Assets/images/CarlSaganPhoto.jpeg",
+        "img":"src/Assets/images/CarlSaganPhoto.jpeg",
         "bio":"(1934-1996) was an American astronomer, astrophysicist, cosmologist, author, and science communicator. Born in Brooklyn, New York, he earned degrees in physics, astronomy, and astrophysics from the University of Chicago."
     },
     "Galileo Galilei":{
-        "img":"/src/Assets/images/GalileoGalileiPhoto.jpg",
+        "img":"src/Assets/images/GalileoGalileiPhoto.jpg",
         "bio":"(1564-1642) was an Italian astronomer, physicist, engineer, and mathematician, often called the father of modern science. Born in Pisa, he studied at the University of Pisa but left without a degree, later becoming a professor of mathematics at the University of Padua."
     },
     "Thomas Huxley":{
-        "img":"/src/Assets/images/ThomasHuxleyPhoto.jpg",
+        "img":"src/Assets/images/ThomasHuxleyPhoto.jpg",
         "bio":"(1825-1895) was an English biologist, anthropologist, and educator, celebrated for his fierce public defense of Charles Darwin's theory of evolution. Born in Ealing, near London, with only two years of formal schooling, Huxley was largely self-taught."
     },
     "Edwin Hubble":{
-        "img":"/src/Assets/images/EdwinHubblePhoto.avif",
+        "img":"src/Assets/images/EdwinHubblePhoto.avif",
         "bio":"(1889-1953) was an American astronomer whose discoveries laid the foundations of modern observational cosmology. Born in Marshfield, Missouri, and raised in Chicago, he was a gifted student and athlete."
     },
     "Confucius":{
-        "img":"/src/Assets/images/ConfuciusPhoto.webp",
+        "img":"src/Assets/images/ConfuciusPhoto.webp",
         "bio":"(c.551-479BCE), born in the State of Lu , was a teacher and philosopher whose ideas on ethics, social harmony, and proper conduct — centered on virtues like ren , li , and xiao — became the foundation of Confucianism, shaping Chinese culture and governance for over two millennia."
     },
     "Aristotle":{
-        "img":"/src/Assets/images/AristotlePhoto.jpg",
+        "img":"src/Assets/images/AristotlePhoto.jpg",
         "bio":"(384-322BCE) was a Greek philosopher and polymath from Stagira, a student of Plato and tutor to Alexander the Great. He founded the Lyceum in Athens and wrote extensively on logic, ethics, politics, biology, metaphysics, and rhetoric."
     },
     "Socrates":{
-        "img":"/src/Assets/images/SocratesPhoto.jfif",
+        "img":"src/Assets/images/SocratesPhoto.jfif",
         "bio":"(c.470-399BCE) was an Athenian philosopher, regarded as a founder of Western philosophy. Known for the Socratic method — probing questions to challenge assumptions — he focused on virtue and the examined life."
     },
     "Steve Jobs":{
-        "img":"/src/Assets/images/SteveJobsPhoto.jpg",
+        "img":"src/Assets/images/SteveJobsPhoto.jpg",
         "bio":"(1955-2011) was an American entrepreneur, inventor, and visionary best known as the co-founder of Apple Inc. Born in San Francisco and adopted shortly after birth, he grew up in California's Silicon Valley."
     },
     "Les Brown":{
-        "img":"/src/Assets/images/lesBrownPhoto.png",
+        "img":"src/Assets/images/lesBrownPhoto.png",
         "bio":"(born February 17, 1945) is an American motivational speaker, author, former radio DJ, television host, and politician. Born Leslie Calvin Brown in an abandoned building in Miami, Florida, he and his twin brother were adopted at six weeks old by Mamie Brown, a single cafeteria worker who became his greatest influence"
     },
     "Thomas A. Edison":{
-        "img":"/src/Assets/images/ThomasEdisonPhoto.jpg",
+        "img":"src/Assets/images/ThomasEdisonPhoto.jpg",
         "bio":"(1847-1931) was an American inventor and entrepreneur whose work transformed modern life. With little formal schooling, he taught himself science and engineering, eventually holding over 1,000 patents."
     },
     "René Descartes":{
-        "img":"/src/Assets/images/ReneDescartesPhoto.jpg",
+        "img":"src/Assets/images/ReneDescartesPhoto.jpg",
         "bio":"(1596-1650) was a French philosopher, mathematician, and scientist, often called the “father of modern philosophy.” Born in La Haye en Touraine, France, he was educated at the Jesuit college of La Flèche, where he developed a strong foundation in mathematics and classical studies."
     },
     "Plato":{
-        "img":"/src/Assets/images/PlatoPhoto.jpg",
+        "img":"src/Assets/images/PlatoPhoto.jpg",
         "bio":"(c.428/427-348/347BC) was an ancient Greek philosopher, student of Socrates, and teacher of Aristotle, regarded as one of the most influential figures in Western thought. Born into an aristocratic Athenian family, he lived through the Peloponnesian War and was deeply shaped by the trial and execution of Socrates."
     },
     "James Baldwin":{
-        "img":"/src/Assets/images/jamesBaldwinPhoto.jfif",
+        "img":"src/Assets/images/jamesBaldwinPhoto.jfif",
         "bio":"(1924-1987) was an American novelist, essayist, playwright, and civil rights activist whose eloquent, uncompromising voice made him one of the most important literary figures of the 20th century. Born in Harlem, New York, and raised in poverty as the eldest of nine children, Baldwin found refuge in reading and began writing at an early age."
     },
     "Michael Jordan":{
-        "img":"/src/Assets/images/michaelJordanPhoto.webp",
+        "img":"src/Assets/images/michaelJordanPhoto.webp",
         "bio":"(born February 17, 1963) is an American former professional basketball player, widely regarded as one of the greatest athletes in sports history. Born in Brooklyn, New York, and raised in Wilmington, North Carolina, he rose to prominence at the University of North Carolina, hitting the game-winning shot in the 1982 NCAA championship."
     },
     "Ralph Waldo Emerson":{
-        "img":"/src/Assets/images/RalphWaldoEmersonPhoto.jpg",
+        "img":"src/Assets/images/RalphWaldoEmersonPhoto.jpg",
         "bio":"(1803-1882) was an American essayist, lecturer, philosopher, and poet who became the leading voice of the Transcendentalist movement in the mid‑19th century. Born in Boston, Massachusetts, he was educated at Harvard and began his career as a Unitarian minister before leaving the pulpit to pursue independent writing and public speaking."
     }
 }

@@ -23,7 +23,7 @@ const BioCard = (props) =>{
         >
             <img 
                 className="card-img-top"
-                src={authorBio.img} 
+                src={`${import.meta.env.BASE_URL}${authorBio.img}`} 
                 alt={props.author}
             />
             <div className="card-body">
