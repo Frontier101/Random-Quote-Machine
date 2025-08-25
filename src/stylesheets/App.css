@@ -1,0 +1,41 @@
+#container{
+    width: clamp(20rem, 100vw, 50rem);
+    max-height: 100vh;
+}
+
+#quote-box{
+    width: clamp(10rem, 70vw, 30rem);
+    height: auto;
+    padding:2rem 3rem;
+}
+
+.change-quote{
+    font-size: clamp(4rem, 8vw, 10rem);
+    transition: color .5s ease;
+}
+.change-quote:hover{
+    filter: brightness(1.1);
+}
+
+a:hover{
+    transform: translateY(3px);
+}
+.fade{
+    transition: opacity .8s ease;
+}
+#mastodon-quote{
+    color:#6364ff;
+}
+#author:hover{
+    color:#000;
+}
+#filters-container{
+    width: clamp(20rem, 100vw, 50rem);
+    margin: auto;
+}
+
+@media screen and (max-width:720px) {
+    .card{
+        left: -3rem;
+    }
+}
